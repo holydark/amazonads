@@ -1,0 +1,86 @@
+body {
+  background-image: url("https://i.imgur.com/Nbi7bYI.jpg");
+  background-position: stretch;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 35pt;
+}
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-color: #333;
+  padding-left: 25px;
+}
+
+li.navbar {
+  float:left;
+  font-family: helvetica;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+.active {
+  background-color: #db5851;
+}
+
+.header {
+  padding: 25px;
+  text-align: center;
+  background-position: center;
+  color: #404244;
+}
+
+p.center {
+  color: #211f1f;
+  font-size: 14pt;
+  font-family: helvetica;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45em;
+}
+
+h2.center {
+  text-align: center;
+  color: #404244;
+  font-size: 20pt;
+  font-family: helvetica;
+}
+
+IMG.cash {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li.lister {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p.test {
+  margin-left: auto;
+  margin-right:
+}
