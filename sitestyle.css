@@ -4,10 +4,9 @@ body {
   background-attachment: fixed;
 }
 
-.youtube {
-	align-content: center;
-	align-items: center;
-	justify-content: center;
+iframe {
+	display: block;
+	margin: 0 auto;
 }
 
 h1 {
