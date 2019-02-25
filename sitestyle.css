@@ -4,7 +4,7 @@ body {
   background-attachment: fixed;
 }
 
-#youtube {
+.youtube {
 	align-content: center;
 	align-items: center;
 	justify-content: center;
