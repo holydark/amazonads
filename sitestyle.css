@@ -10,8 +10,10 @@ iframe {
 	text-align: center;
 }
 
-.ytlink {
+a.ytlink {
 	text-align: center;
+	display: block;
+	margin: auto;
 }
 
 h1 {
